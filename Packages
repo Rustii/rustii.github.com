@@ -1,0 +1,24 @@
+Package: com.Rustii.animatedclockoptions
+Version: 0.0.1-12
+Architecture: iphoneos-arm
+Maintainer: Rustii
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: debs//com.Rustii.animatedclockoptions_0.0.1-12_iphoneos-arm.deb
+Size: 10186
+MD5sum: e1e9102e20a1f7d8a4e900f207b8db57
+Section: Tweaks
+Description: just some options for the live clock!
+
+Package: com.Rustii.zepplanemodefix
+Version: 0.0.1-17
+Architecture: iphoneos-arm
+Maintainer: Christopher Small
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debs//com.Rustii.zepplanemodefix_0.0.1-17_iphoneos-arm.deb
+Size: 7670
+MD5sum: 4a83a5030ced1da7182a3eb31b72c437
+Section: Tweaks
+Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
+
