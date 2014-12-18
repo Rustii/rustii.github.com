@@ -10,6 +10,18 @@ MD5sum: e1e9102e20a1f7d8a4e900f207b8db57
 Section: Tweaks
 Description: just some options for the live clock!
 
+Package: com.Rustii.reachability8
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: Christopher Small
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs//com.Rustii.reachability8_0.0.1-6_iphoneos-arm.deb
+Size: 3278
+MD5sum: eb085cf4f999c270351375042808e709
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+
 Package: com.Rustii.zepplanemodefix
 Version: 0.0.1-17
 Architecture: iphoneos-arm
