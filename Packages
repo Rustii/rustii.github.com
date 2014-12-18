@@ -1,12 +1,12 @@
 Package: com.Rustii.animatedclockoptions
-Version: 0.0.1-12
+Version: 0.0.1-15
 Architecture: iphoneos-arm
 Maintainer: Rustii
 Installed-Size: 192
 Depends: mobilesubstrate
-Filename: debs//com.Rustii.animatedclockoptions_0.0.1-12_iphoneos-arm.deb
-Size: 10186
-MD5sum: e1e9102e20a1f7d8a4e900f207b8db57
+Filename: debs//com.Rustii.animatedclockoptions_0.0.1-15_iphoneos-arm.deb
+Size: 11072
+MD5sum: 15d073b6a6ea83f28e2dfa45a8fd40aa
 Section: Tweaks
 Description: just some options for the live clock!
 
