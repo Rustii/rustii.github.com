@@ -1,36 +1,36 @@
 Package: com.Rustii.animatedclockoptions
-Version: 0.0.1-15
+Version: 0.0.1-17
 Architecture: iphoneos-arm
-Maintainer: Rustii
+Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 192
 Depends: mobilesubstrate
-Filename: debs//com.Rustii.animatedclockoptions_0.0.1-15_iphoneos-arm.deb
-Size: 11072
-MD5sum: 15d073b6a6ea83f28e2dfa45a8fd40aa
+Filename: debs//com.Rustii.animatedclockoptions_0.0.1-17_iphoneos-arm.deb
+Size: 11102
+MD5sum: f439df281087f06e5ab2dd2245ad0432
 Section: Tweaks
 Description: just some options for the live clock!
 
 Package: com.Rustii.reachability8
-Version: 0.0.1-6
+Version: 0.0.1-7
 Architecture: iphoneos-arm
-Maintainer: Christopher Small
+Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.Rustii.reachability8_0.0.1-6_iphoneos-arm.deb
-Size: 3278
-MD5sum: eb085cf4f999c270351375042808e709
+Filename: debs//com.Rustii.reachability8_0.0.1-7_iphoneos-arm.deb
+Size: 3694
+MD5sum: fb392f18bf59a3dd27856efa4c0d0d46
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 
 Package: com.Rustii.zepplanemodefix
-Version: 0.0.1-17
+Version: 0.0.1-18
 Architecture: iphoneos-arm
-Maintainer: Christopher Small
+Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: debs//com.Rustii.zepplanemodefix_0.0.1-17_iphoneos-arm.deb
-Size: 7670
-MD5sum: 4a83a5030ced1da7182a3eb31b72c437
+Filename: debs//com.Rustii.zepplanemodefix_0.0.1-18_iphoneos-arm.deb
+Size: 7704
+MD5sum: 02f478bc1016adbdc4ed194e238c130e
 Section: Tweaks
 Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
 
