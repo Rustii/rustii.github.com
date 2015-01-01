@@ -1,14 +1,14 @@
-Package: com.Rustii.reachability8
-Version: 0.0.1-7
+Package: com.Rustii.reachability5s
+Version: 0.0.1-1
 Architecture: iphoneos-arm
-Maintainer: Rustii <christophersmall2013@gmail.com>
-Installed-Size: 72
+Maintainer: Rustii
+Installed-Size: 88
 Depends: mobilesubstrate
-Filename: debs//com.Rustii.reachability8_0.0.1-7_iphoneos-arm.deb
-Size: 3694
-MD5sum: fb392f18bf59a3dd27856efa4c0d0d46
+Filename: debs//com.Rustii.reachability5s_0.0.1-1_iphoneos-arm.deb
+Size: 3872
+MD5sum: a1895b24d6d8be0608ece9f4b7f177b1
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Brings reachability to iPhone 5S and gives you some simple options.
 
 Package: com.Rustii.secondstonone
 Version: 0.0.1-5
@@ -45,16 +45,4 @@ Size: 10280
 MD5sum: b9a35d925c47c022dc5da5cb0a18a5c5
 Section: Tweaks
 Description: just some options for the live clock!
-
-Package: com.rustii.ufcunlim
-Version: 0.0.1-16
-Architecture: iphoneos-arm
-Maintainer: rustii
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: debs//com.rustii.ufcunlim_0.0.1-16_iphoneos-arm.deb
-Size: 5380
-MD5sum: a36a84cfe071950fffdc79f0cdaf0d09
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
 
