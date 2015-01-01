@@ -46,3 +46,15 @@ MD5sum: b9a35d925c47c022dc5da5cb0a18a5c5
 Section: Tweaks
 Description: just some options for the live clock!
 
+Package: com.rustii.ufcunlim
+Version: 0.0.1-16
+Architecture: iphoneos-arm
+Maintainer: rustii
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs//com.rustii.ufcunlim_0.0.1-16_iphoneos-arm.deb
+Size: 5380
+MD5sum: a36a84cfe071950fffdc79f0cdaf0d09
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+
