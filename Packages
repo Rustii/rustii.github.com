@@ -1,3 +1,14 @@
+Package: com.Rustii.cydiatimeout5
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Rustii
+Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20
+Filename: debs//cydiatimeout5.deb
+Size: 1766
+MD5sum: bde6c5aa62f6e100218aae694da2fb53
+Section: System
+Description: makes bad repos timeout at 5 seconds.
+
 Package: com.Rustii.reachability5s
 Version: 0.0.1-1
 Architecture: iphoneos-arm
