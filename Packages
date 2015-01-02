@@ -10,14 +10,15 @@ Section: System
 Description: makes bad repos timeout at 5 seconds.
 
 Package: com.Rustii.reachability5s
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: Rustii
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: debs//com.Rustii.reachability5s_0.0.1-1_iphoneos-arm.deb
-Size: 3872
-MD5sum: a1895b24d6d8be0608ece9f4b7f177b1
+Conflicts: com.w00tylab.virtualhome8
+Filename: debs//com.Rustii.reachability5s_0.0.1-2_iphoneos-arm.deb
+Size: 3896
+MD5sum: 4310361b77b7ecf661466b3598087cbd
 Section: Tweaks
 Description: Brings reachability to iPhone 5S and gives you some simple options.
 
