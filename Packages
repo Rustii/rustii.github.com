@@ -1,3 +1,17 @@
+Package: com.Rustii.animatedclockoptions
+Version: 0.0.1-58
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 192
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: 
+Replaces: com.Rustii.secondstonone
+Filename: debs//com.Rustii.animatedclockoptions_0.0.1-58_iphoneos-arm.deb
+Size: 11462
+MD5sum: 7cc2f17f1163e649797a8d75513993aa
+Section: Tweaks
+Description: just some options for the live clock!Replaces SecondsToNone!
+
 Package: com.Rustii.cydiatimeout5
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -23,15 +37,17 @@ Section: Tweaks
 Description: Brings reachability to iPhone 5S and gives you some simple options.
 
 Package: com.Rustii.secondstonone
-Version: 0.0.1-5
+Version: 0.0.1-9
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 192
-Depends: mobilesubstrate
-Filename: debs//com.Rustii.secondstonone_0.0.1-5_iphoneos-arm.deb
-Size: 10902
-MD5sum: 31e7f8b325499aeb7c6aca04cc8c68cb
-Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.Rustii.animatedclockoptions
+Replaces: 
+Filename: debs//com.Rustii.secondstonone_0.0.1-9_iphoneos-arm.deb
+Size: 11028
+MD5sum: 7ce308a972a3acbc984a4bf7d8a900f9
+Section: Legacy Tweaks
 Description: thanks magn2o for the help,his tweak!
 
 Package: com.Rustii.zepplanemodefix
@@ -45,16 +61,4 @@ Size: 9518
 MD5sum: c2c1656ad3c9c0f149b95ade70eee330
 Section: Tweaks
 Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
-
-Package: com.rustii.animatedclockoptions
-Version: 0.0.1-31
-Architecture: iphoneos-arm
-Maintainer: Rustii <christophersmall2013@gmail.com>
-Installed-Size: 192
-Depends: mobilesubstrate
-Filename: debs//com.rustii.animatedclockoptions_0.0.1-31_iphoneos-arm.deb
-Size: 10280
-MD5sum: b9a35d925c47c022dc5da5cb0a18a5c5
-Section: Tweaks
-Description: just some options for the live clock!
 
