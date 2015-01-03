@@ -36,15 +36,15 @@ Section: Tweaks
 Description: Brings reachability to iPhone 5S and gives you some simple options.
 
 Package: com.Rustii.secondstonone
-Version: 0.0.1-12
+Version: 0.0.1-13
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 192
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.Rustii.secondstonone_0.0.1-12_iphoneos-arm.deb
-Size: 10994
-MD5sum: cd7c5445fb7b63b322121442a6bb7c72
-Section: Legacy Tweaks
+Filename: debs//com.Rustii.secondstonone_0.0.1-13_iphoneos-arm.deb
+Size: 10998
+MD5sum: acc0cab7d3badefd7dfe15ae0183b123
+Section: Tweaks (Legacy)
 Description: thanks magn2o for the help,his tweak!
 
 Package: com.Rustii.zepplanemodefix
