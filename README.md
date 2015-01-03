@@ -7,4 +7,7 @@ to copy this repo just replace the debs in the debs folder get terminal to the r
 could not be easier
 
 *About Update information*
+
+
+
 if you want to know what changes i to the debs check the commit logs, i always comment what has changed in them.
