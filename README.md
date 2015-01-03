@@ -1,4 +1,4 @@
-rustii.github.com < copy this
+rustii.github.com < copy this and add it to Cydia repo's
 =================
 
 My First Try at a repo
