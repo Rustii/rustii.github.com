@@ -37,16 +37,16 @@ Section: Tweaks
 Description: Brings reachability to iPhone 5S and gives you some simple options.
 
 Package: com.Rustii.secondstonone
-Version: 0.0.1-9
+Version: 0.0.1-10
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 192
 Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: com.Rustii.animatedclockoptions
+Conflicts: com.rustii.animatedclockoptions
 Replaces: 
-Filename: debs//com.Rustii.secondstonone_0.0.1-9_iphoneos-arm.deb
-Size: 11028
-MD5sum: 7ce308a972a3acbc984a4bf7d8a900f9
+Filename: debs//com.Rustii.secondstonone_0.0.1-10_iphoneos-arm.deb
+Size: 11032
+MD5sum: ce68d64a2b39432f0ad79f658be516d7
 Section: Legacy Tweaks
 Description: thanks magn2o for the help,his tweak!
 
