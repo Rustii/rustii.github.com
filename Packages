@@ -22,18 +22,6 @@ MD5sum: d94c46c60b0b2f14d5b541b5915ed322
 Section: System
 Description: makes bad repos timeout at 5 seconds.
 
-Package: com.Rustii.movieboxfull
-Version: 0.0.1-12
-Architecture: iphoneos-arm
-Maintainer: Rustii <christophersmall2013@gmail.com>
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: debs//com.Rustii.movieboxfull_0.0.1-12_iphoneos-arm.deb
-Size: 5120
-MD5sum: 3ca9e14025fd051e5d083076be309051
-Section: Apps
-Description: Moviebox3 features fully unlocked. Enjoy
-
 Package: com.Rustii.reachability5s
 Version: 0.0.1-3
 Architecture: iphoneos-arm
@@ -48,14 +36,14 @@ Section: Tweaks
 Description: Brings reachability to iPhone 5S and gives you some simple options.
 
 Package: com.Rustii.secondstonone
-Version: 0.0.1-14
+Version: 0.0.1-13
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 192
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.Rustii.secondstonone_0.0.1-14_iphoneos-arm.deb
-Size: 10996
-MD5sum: eb5ea076211485da331a77f0f20d4dad
+Filename: debs//com.Rustii.secondstonone_0.0.1-13_iphoneos-arm.deb
+Size: 10998
+MD5sum: acc0cab7d3badefd7dfe15ae0183b123
 Section: Tweaks (Legacy)
 Description: thanks magn2o for the help,his tweak!
 
