@@ -1,4 +1,4 @@
-rustii.github.com < copy this
+rustii.github.com < copy this and add it in cydia
 =================
 
 My First Try at a repo
