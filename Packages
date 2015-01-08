@@ -71,13 +71,3 @@ MD5sum: c2c1656ad3c9c0f149b95ade70eee330
 Section: Tweaks
 Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
 
-Package: iRE
-Version: "1.0"
-Architecture: iphoneos-arm
-Maintainer: "Steve Jensen <sjensen@veracode.com>"
-Depends: 
-Filename: debs//iRET.deb
-Size: 65894
-MD5sum: f746c1db9cc8c863afb1b8331b8b2da0
-Homepage: 
-
