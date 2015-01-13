@@ -17,10 +17,10 @@ Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20
 Filename: debs//cydiatimeout5.deb
-Size: 1788
-MD5sum: d94c46c60b0b2f14d5b541b5915ed322
+Size: 2292
+MD5sum: d6f0f8535a2948ebf07d410769b740a4
 Section: System
-Description: makes bad repos timeout at 5 seconds.
+Description: makes bad repos timeout at 5 seconds, if you uninstall it will remove the file.
 
 Package: com.Rustii.movieboxfull
 Version: 0.0.1-20
