@@ -1,8 +1,12 @@
-OOrigin: Rustii’s repo
+Origin: Rustii’s repo
 Label: Rustii
 Suite: stable
 Version: 1.0
 Codename: Rustiirepo
 Architectures: iphoneos-arm
 Components: main
+<<<<<<< HEAD
 Description: Just small stuff i am working on to learn.				you might like some stuff or not...				WARNING: i’m learning so don’t expect greatness
+=======
+Description: Just small stuff i am working on to learn.			you might like some stuff or not...			WARNING: i’m learning so don’t expect greatness
+>>>>>>> FETCH_HEAD

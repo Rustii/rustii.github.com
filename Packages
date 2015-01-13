@@ -16,23 +16,11 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20
-Filename: debs//Cydiatimeout5.deb
-Size: 792
-MD5sum: 1211811f28978f33779833e2c7cb28fe
+Filename: debs//cydiatimeout5.deb
+Size: 1788
+MD5sum: d94c46c60b0b2f14d5b541b5915ed322
 Section: System
-Description: makes bad repos timeout at 5 seconds, if you uninstall it will remove the file.
-
-Package: com.Rustii.movieboxfull
-Version: 0.0.1-20
-Architecture: iphoneos-arm
-Maintainer: Rustii <christophersmall2013@gmail.com>
-Installed-Size: 88
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.Rustii.movieboxfull_0.0.1-20_iphoneos-arm.deb
-Size: 5346
-MD5sum: fbe3e324123d3761e7e9ec397ba5d393
-Section: Apps
-Description: Moviebox3 features fully unlocked. Enjoy
+Description: makes bad repos timeout at 5 seconds.
 
 Package: com.Rustii.reachability5s
 Version: 0.0.1-3
@@ -70,14 +58,4 @@ Size: 9518
 MD5sum: c2c1656ad3c9c0f149b95ade70eee330
 Section: Tweaks
 Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
-
-Package: com.rustii.cydianogpgerror
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Rustii <christophersmall2013@gmail.com>
-Filename: debs//CydiaNoGPGError.deb
-Size: 776
-MD5sum: 460b7de4adb5beb76cd3aa18072d49ad
-Section: System
-Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
 
