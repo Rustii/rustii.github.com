@@ -76,8 +76,8 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Filename: debs//CydiaNoGPGError.deb
-Size: 776
-MD5sum: 460b7de4adb5beb76cd3aa18072d49ad
+Size: 1834
+MD5sum: aad45eae1c5390d08c5fd19119c111bf
 Section: System
 Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
 
