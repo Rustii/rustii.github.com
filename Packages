@@ -16,9 +16,9 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20
-Filename: debs//cydiatimeout5.deb
-Size: 2292
-MD5sum: d6f0f8535a2948ebf07d410769b740a4
+Filename: debs//Cydiatimeout5.deb
+Size: 792
+MD5sum: 1211811f28978f33779833e2c7cb28fe
 Section: System
 Description: makes bad repos timeout at 5 seconds, if you uninstall it will remove the file.
 
@@ -76,8 +76,8 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Filename: debs//CydiaNoGPGError.deb
-Size: 2256
-MD5sum: 590b434166f1d6431b26050600f921b8
+Size: 776
+MD5sum: 460b7de4adb5beb76cd3aa18072d49ad
 Section: System
 Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
 
