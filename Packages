@@ -1,13 +1,13 @@
 Package: com.Rustii.animatedclockoptions
-Version: 0.0.1-61
+Version: 0.0.1-62
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 192
 Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: com.Rustii.secondstonone
-Filename: debs//com.Rustii.animatedclockoptions_0.0.1-61_iphoneos-arm.deb
-Size: 11274
-MD5sum: bddd124a937a3bba60b81a59b4134e6a
+Filename: debs//com.Rustii.animatedclockoptions_0.0.1-62_iphoneos-arm.deb
+Size: 11094
+MD5sum: 3a76ffb8890fec28d7a5819fc9e9ad6a
 Section: Tweaks
 Description: just some options for the live clock!Replaces SecondsToNone!
 
