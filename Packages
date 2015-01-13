@@ -22,18 +22,6 @@ MD5sum: d94c46c60b0b2f14d5b541b5915ed322
 Section: System
 Description: makes bad repos timeout at 5 seconds.
 
-Package: com.Rustii.movieboxfull
-Version: 0.0.1-20
-Architecture: iphoneos-arm
-Maintainer: Rustii <christophersmall2013@gmail.com>
-Installed-Size: 88
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.Rustii.movieboxfull_0.0.1-20_iphoneos-arm.deb
-Size: 5346
-MD5sum: fbe3e324123d3761e7e9ec397ba5d393
-Section: Apps
-Description: Moviebox3 features fully unlocked. Enjoy
-
 Package: com.Rustii.reachability5s
 Version: 0.0.1-3
 Architecture: iphoneos-arm
