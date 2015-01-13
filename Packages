@@ -1,0 +1,73 @@
+Package: com.Rustii.animatedclockoptions
+Version: 0.0.1-61
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 192
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.Rustii.secondstonone
+Filename: debs//com.Rustii.animatedclockoptions_0.0.1-61_iphoneos-arm.deb
+Size: 11274
+MD5sum: bddd124a937a3bba60b81a59b4134e6a
+Section: Tweaks
+Description: just some options for the live clock!Replaces SecondsToNone!
+
+Package: com.Rustii.cydiatimeout5
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20
+Filename: debs//cydiatimeout5.deb
+Size: 2292
+MD5sum: a7b61b6c4e8a65bcfb841abd810fc762
+Section: System
+Description: makes bad repos timeout at 5 seconds, if you uninstall it will remove the file.
+
+Package: com.Rustii.movieboxfull
+Version: 0.0.1-20
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 88
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs//com.Rustii.movieboxfull_0.0.1-20_iphoneos-arm.deb
+Size: 5346
+MD5sum: fbe3e324123d3761e7e9ec397ba5d393
+Section: Apps
+Description: Moviebox3 features fully unlocked. Enjoy
+
+Package: com.Rustii.reachability5s
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Conflicts: com.w00tylab.virtualhome8
+Filename: debs//com.Rustii.reachability5s_0.0.1-3_iphoneos-arm.deb
+Size: 3920
+MD5sum: 19e62502607e6344627ea2db35280113
+Section: Tweaks
+Description: Brings reachability to iPhone 5S and gives you some simple options.
+
+Package: com.Rustii.secondstonone
+Version: 0.0.1-13
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 192
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs//com.Rustii.secondstonone_0.0.1-13_iphoneos-arm.deb
+Size: 10998
+MD5sum: acc0cab7d3badefd7dfe15ae0183b123
+Section: Tweaks (Legacy)
+Description: thanks magn2o for the help,his tweak!
+
+Package: com.Rustii.zepplanemodefix
+Version: 0.0.1-19
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: debs//com.Rustii.zepplanemodefix_0.0.1-19_iphoneos-arm.deb
+Size: 9518
+MD5sum: c2c1656ad3c9c0f149b95ade70eee330
+Section: Tweaks
+Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
+
