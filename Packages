@@ -71,3 +71,14 @@ MD5sum: c2c1656ad3c9c0f149b95ade70eee330
 Section: Tweaks
 Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
 
+Package: com.rustii.cydianogpgerror
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Conflicts: 
+Filename: debs//CydiaNoGPGError.deb
+Size: 2292
+MD5sum: 5cc7d896a92826e8bc63dd993aeb41f9
+Section: System
+Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
+
