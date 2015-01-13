@@ -75,10 +75,9 @@ Package: com.rustii.cydianogpgerror
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
-Conflicts: 
 Filename: debs//CydiaNoGPGError.deb
-Size: 2292
-MD5sum: 5cc7d896a92826e8bc63dd993aeb41f9
+Size: 2256
+MD5sum: 590b434166f1d6431b26050600f921b8
 Section: System
 Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
 
