@@ -1,13 +1,13 @@
 Package: com.Rustii.animatedclockoptions
-Version: 0.0.1-62
+Version: 0.0.1-63
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 192
 Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: com.Rustii.secondstonone
-Filename: debs//com.Rustii.animatedclockoptions_0.0.1-62_iphoneos-arm.deb
-Size: 11094
-MD5sum: 3a76ffb8890fec28d7a5819fc9e9ad6a
+Filename: debs//com.Rustii.animatedclockoptions_0.0.1-63_iphoneos-arm.deb
+Size: 11058
+MD5sum: 7114dc90ac817a6ff0178065bf47f076
 Section: Tweaks
 Description: just some options for the live clock!Replaces SecondsToNone!
 
@@ -82,14 +82,14 @@ Section: System
 Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
 
 Package: com.rustii.hdcinemafull
-Version: 0.0.1-5
+Version: 0.0.1-7
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 88
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.rustii.hdcinemafull_0.0.1-5_iphoneos-arm.deb
-Size: 4118
-MD5sum: 9bc2cdcd8d4986b2044c0e4794e36ff2
+Filename: debs//com.rustii.hdcinemafull_0.0.1-7_iphoneos-arm.deb
+Size: 4116
+MD5sum: 540dc571fcb1ee0ca2a1ef2b5e8a6e77
 Section: Apps
-Description: An awesome MobileSubstrate tweak!
+Description: A fuller experience in HD Cinema!
 
