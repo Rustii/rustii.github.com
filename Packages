@@ -81,3 +81,15 @@ MD5sum: aad45eae1c5390d08c5fd19119c111bf
 Section: System
 Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
 
+Package: com.rustii.hdcinemafull
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 88
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs//com.rustii.hdcinemafull_0.0.1-5_iphoneos-arm.deb
+Size: 4118
+MD5sum: 9bc2cdcd8d4986b2044c0e4794e36ff2
+Section: Apps
+Description: An awesome MobileSubstrate tweak!
+
