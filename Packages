@@ -105,3 +105,15 @@ MD5sum: 540dc571fcb1ee0ca2a1ef2b5e8a6e77
 Section: Apps
 Description: A fuller experience in HD Cinema!
 
+Package: com.rustii.slackerhb
+Version: 0.0.1-10
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 88
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: debs//com.rustii.slackerhb_0.0.1-10_iphoneos-arm.deb
+Size: 3702
+MD5sum: b712f2c33973b4f577d2e16f1b0a72cb
+Section: Personal
+Description: DO NOT INSTALL this makes your home button stop working. like really!!!
+
