@@ -94,14 +94,14 @@ Section: System
 Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
 
 Package: com.rustii.hdcinemafull
-Version: 0.0.1-7
+Version: 0.0.1-8
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 88
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.rustii.hdcinemafull_0.0.1-7_iphoneos-arm.deb
-Size: 4116
-MD5sum: 540dc571fcb1ee0ca2a1ef2b5e8a6e77
+Filename: debs//com.rustii.hdcinemafull_0.0.1-8_iphoneos-arm.deb
+Size: 4112
+MD5sum: 8777d5c51db84568bb4aa37799fa4ff2
 Section: Apps
 Description: A fuller experience in HD Cinema!
 
