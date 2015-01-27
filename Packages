@@ -105,6 +105,18 @@ MD5sum: 8a6613e89e2f51ee88ef629808812ff4
 Section: Apps
 Description: A fuller experience in HD Cinema!
 
+Package: com.rustii.res-ipsa-loquitur
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Rustii <christophersmall2013@gmail.com>
+Installed-Size: 88
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs//com.rustii.res-ipsa-loquitur_0.0.1-2_iphoneos-arm.deb
+Size: 3750
+MD5sum: e21b421729a14682bf1f384289871bf0
+Section: Tweaks
+Description: No Shutter sound on IOS 8!
+
 Package: com.rustii.slackerhb
 Version: 0.0.1-10
 Architecture: iphoneos-arm
