@@ -84,14 +84,14 @@ Section: Apps
 Description: a better experience for cartoon HD Pro!
 
 Package: com.rustii.cartoonhdv2full
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 88
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.rustii.cartoonhdv2full_0.0.1-1_iphoneos-arm.deb
-Size: 3948
-MD5sum: 76f1ca525c7ea25740a44b7c06ed0ddc
+Filename: debs//com.rustii.cartoonhdv2full_0.0.1-2_iphoneos-arm.deb
+Size: 3950
+MD5sum: 280ae02961b5009370811870800e4432
 Section: Apps
 Description: a better experience for cartoon HD V2!
 
