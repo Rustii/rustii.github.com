@@ -71,6 +71,22 @@ MD5sum: c2c1656ad3c9c0f149b95ade70eee330
 Section: Tweaks
 Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
 
+Package: com.julioverne.cydiaenable
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.saurik.iphone.ske, me.devbug.cydiaenhancer
+Filename: debs//com.julioverne.cydiaenable_1.7_iphoneos-arm.deb
+Size: 34026
+MD5sum: 5db65b89e2e71df239e729c23f946d3e
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Enable any Tweaks in Cydia App!
+	Lets you to use any Tweak inside Cydia and iFile App!
+	
+	Configure options from Settings.
+
 Package: com.rustii.cartoonhdfull
 Version: 0.0.1-3
 Architecture: iphoneos-arm
