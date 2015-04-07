@@ -1,3 +1,15 @@
+Package: cc.tweak.libobjcipc
+Version: 1.0.2-3
+Architecture: iphoneos-arm
+Maintainer: Alan Yip
+Installed-Size: 164
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5101)
+Filename: debs//cc.tweak.libobjcipc_1.0.2-3_iphoneos-arm.deb
+Size: 47306
+MD5sum: 11c231c8be6358b8eceec38b5f9f96d7
+Section: 
+Description: 
+
 Package: com.Rustii.animatedclockoptions
 Version: 0.0.1-68
 Architecture: iphoneos-arm
@@ -120,18 +132,6 @@ Size: 1834
 MD5sum: aad45eae1c5390d08c5fd19119c111bf
 Section: System
 Description: Stops github repo's giving you a GPG error, if you uninstall it will remove the file.
-
-Package: com.rustii.hdcinemafull
-Version: 0.0.1-9
-Architecture: iphoneos-arm
-Maintainer: Rustii <christophersmall2013@gmail.com>
-Installed-Size: 88
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.rustii.hdcinemafull_0.0.1-9_iphoneos-arm.deb
-Size: 4116
-MD5sum: 8a6613e89e2f51ee88ef629808812ff4
-Section: Apps
-Description: A fuller experience in HD Cinema!
 
 Package: com.rustii.res-ipsa-loquitur
 Version: 0.0.1-2
