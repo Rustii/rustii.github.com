@@ -1,15 +1,3 @@
-Package: cc.tweak.libobjcipc
-Version: 1.0.2-3
-Architecture: iphoneos-arm
-Maintainer: Alan Yip
-Installed-Size: 164
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5101)
-Filename: debs//cc.tweak.libobjcipc_1.0.2-3_iphoneos-arm.deb
-Size: 47306
-MD5sum: 11c231c8be6358b8eceec38b5f9f96d7
-Section: 
-Description: 
-
 Package: com.Rustii.animatedclockoptions
 Version: 0.0.1-68
 Architecture: iphoneos-arm
@@ -70,34 +58,6 @@ Size: 10998
 MD5sum: acc0cab7d3badefd7dfe15ae0183b123
 Section: Tweaks (Legacy)
 Description: thanks magn2o for the help,his tweak!
-
-Package: com.Rustii.zepplanemodefix
-Version: 0.0.1-19
-Architecture: iphoneos-arm
-Maintainer: Rustii <christophersmall2013@gmail.com>
-Installed-Size: 192
-Depends: mobilesubstrate
-Filename: debs//com.Rustii.zepplanemodefix_0.0.1-19_iphoneos-arm.deb
-Size: 9518
-MD5sum: c2c1656ad3c9c0f149b95ade70eee330
-Section: Tweaks
-Description: Make zeppelin work in airplane mode… flipswitch for airplane mode doesn’t work with this enabled!
-
-Package: com.julioverne.cydiaenable
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.saurik.iphone.ske, me.devbug.cydiaenhancer
-Filename: debs//com.julioverne.cydiaenable_1.7_iphoneos-arm.deb
-Size: 34026
-MD5sum: 5db65b89e2e71df239e729c23f946d3e
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Enable any Tweaks in Cydia App!
-	Lets you to use any Tweak inside Cydia and iFile App!
-	
-	Configure options from Settings.
 
 Package: com.rustii.cartoonhdfull
 Version: 0.0.1-3
