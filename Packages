@@ -118,14 +118,14 @@ Section: Personal
 Description: DO NOT INSTALL this makes your home button stop working. like really!!!
 
 Package: com.rustii.ufctvfull
-Version: 0.0.1-14
+Version: 0.0.1-22
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
-Installed-Size: 168
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: debs//com.rustii.ufctvfull_0.0.1-14_iphoneos-arm.deb
-Size: 6946
-MD5sum: 6e351492b1f40a7e0e7dc9c0025f3224
+Installed-Size: 104
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: debs//com.rustii.ufctvfull_0.0.1-22_iphoneos-arm.deb
+Size: 5116
+MD5sum: 9ae23361b2366adf4e2e8f1887bdf497
 Section: Apps
-Description: get all the features on the UFC.TV app for free!
+Description: An awesome MobileSubstrate tweak!
 
