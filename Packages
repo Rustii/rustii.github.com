@@ -118,14 +118,14 @@ Section: Personal
 Description: DO NOT INSTALL this makes your home button stop working. like really!!!
 
 Package: com.rustii.ufctvfull
-Version: 0.0.1-23
+Version: 0.0.1-26
 Architecture: iphoneos-arm
 Maintainer: Rustii <christophersmall2013@gmail.com>
 Installed-Size: 104
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: debs//com.rustii.ufctvfull_0.0.1-23_iphoneos-arm.deb
-Size: 5264
-MD5sum: cbcc866c93c2772035a8b43e420f4f25
+Filename: debs//com.rustii.ufctvfull_0.0.1-26_iphoneos-arm.deb
+Size: 5248
+MD5sum: 87e4d48479d6dfca07bc46149363a565
 Section: Apps
 Description: An awesome MobileSubstrate tweak!
 
